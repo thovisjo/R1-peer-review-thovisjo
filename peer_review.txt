@@ -1,0 +1,27 @@
+﻿Name: Blake Miller
+Date: April 1st 2018
+Peer’s project: R1-peer-review-thovisjo
+
+What is something you learned by reviewing your peer’s project?
+
+	I learned the value of commenting; while none of us knew that this project would become subject for peer review, I suppose that's the same for the field.  I didn't comment my code very much either, and I bet it was confusing, even if it makes sense to me; comments just reduce the time it takes to understand code.
+What is something you saw in your peer’s project that you would like to apply to your own programming projects?
+
+	I would like to apply clicking proximity to my future projects. This project utilized clicking on objects and comparing the click position to the postition of objects, which I would like to use in future games.
+What suggestions would you have for your peer to improve his/her code?
+
+	I would recommend the use of more functions. This code is a little long, and main() becomes somewhat cluttered. Also, the main mechanic is somewhat confusing, as the game becomes essentially twice as long and infinitely more difficult to understand.
+What could have been clearer or better commented?
+
+
+	The main funcitons of the program that make up main() are very little explained; I would have liked to see more comments there as I was wondering what everything did, so it was a little hard to decipher. That said, most lines seem to make straightforward sense once understood. 
+Was there anything in the code that was confusing to you? If so, what?
+
+
+	Word-checking was somewhat confusing, but was easy enough to understand once I reviewed the code.
+What is something he/she could add to the README.md to make it more descriptive?
+
+
+	Nearly every block of code could be commented to clarify more its purpose; lines like line1= "".join(line1) are somewhat confusing not only because they change the type of variable line1 but also they seem to appear with little context. That said, these lines serve a valuable purpose that makes logical sense once understood.
+Pay a compliment to your peer based on the quality of his/her code.
+	Word-checking seems like a very difficult mechanic but the code makes it seem easy and effortless. It seems to work pretty well, too, even if it does require hard-coding a bunch of words into the code.
