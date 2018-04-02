@@ -1,0 +1,31 @@
+Name: Raniel Santos
+Date: 4/1/2018
+Peer's Project: Sliding Puzzle
+
+What is something you learned by reviewing your peer's project?
+
+While I'm not quite sure I understand it fully, I do see how they color code the blocks.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+A tracker (in this case # of turns)
+
+What suggestions would you have for your peer to improve his/her code?
+
+I'd suggest adding comments so that other people know what is what or you know what is what whe nyou look at the code again in the future. Not necessarily per line but if let's say this block fo code is for moving squares then perhaps include a comment above that line saying that is what it does.
+
+What could have been clearer or better commented?
+
+See above
+
+Was there anything in the code that was confusing to you? If so, what?
+
+Im' not quite sure what lines 100-103 and, 118-123 do.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+I think the readme is pretty descriptive. However, since you mention that the possible words are predetermined and that the puzzle will not recognize a win if you make words outside the preset, I'd consider displaying the chosen words on the side below the turn counter (or somehwere else).
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+Outside of lacking comments, the code is formatted well, works, and does it best not to repeat it self. I really like the turn tracker. Good job!
